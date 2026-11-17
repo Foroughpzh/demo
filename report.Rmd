@@ -1,6 +1,6 @@
 ---
 title: "Week 11 Git Practice"
-output: html_document
+output: github_document
 ---
 
 this is my rmarkdown file. 
